@@ -16,5 +16,14 @@
 /automation
 /overview.aspx
 /estec
+/ui/
+/ui/login
+/ui/login.html
+/ui/login/passowrd/change
+:8080/ui/login
+/ui/login/login?authRequestID=11111111111111111111
 /ui/agree-to-license
 /ui/data-point-details/
+/ui/administration/users/
+
+
