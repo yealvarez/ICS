@@ -46,3 +46,4 @@
 scada-login-2
 /Account/Login?ReturnUrl=%2fHome%2fHardwareServiceNotAvailable
 /index2.php
+/scada-vis
