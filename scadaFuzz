@@ -40,3 +40,9 @@
 /upload
 /upload-program
 /Account/Login?ReturnUrl=%2f
+/Default/Login.aspx?CompanyID=282
+/scada-login
+/s-c-a-d-a-login/
+scada-login-2
+/Account/Login?ReturnUrl=%2fHome%2fHardwareServiceNotAvailable
+/index2.php
