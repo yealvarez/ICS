@@ -144,3 +144,43 @@ zenon Energy Data Management
 zenon Process Recorder
 zenon Recipe
 zenon Pharma Suite
+WebAccess/SCADA
+WebAccess/HMI
+WebAccess/IVS (Intelligent Video Surveillance)
+WebAccess/DMP (Device Management Platform)
+WebAccess/IMM (Intelligent Mobile Monitoring)
+WebAccess/NMS (Network Management System)
+WebAccess/CNC
+WebAccess/Modbus
+WebAccess/OEM
+WebAccess/Remote
+Automation Studio SCADA
+APROL (Advanced Process Control)
+mapp View
+mapp SCADA
+HMI Designer
+B&R mapp Screen
+B&R mapp View
+B&R mapp Cockpit
+B&R mapp Technology
+B&R mapp Motion
+iX Developer
+iX HMI Software
+iX Panel
+iX TxB
+iX Studio
+iX TxB Viewer
+iX Report
+iX Mobile
+iX Developer Starter
+iX Developer Basic
+e!COCKPIT (Entorno de desarrollo de automatización)
+WAGO-I/O-PRO (Software de configuración y programación)
+WAGO Smart Designer (Software de diseño de paneles de control)
+WAGO Cloud Data Control (Herramienta para la gestión de datos en la nube)
+WAGO DALI Configurator (Software para configuración de sistemas de iluminación DALI)
+WAGO Touch Panel Configuration Software (Software de configuración para paneles táctiles)
+WAGO BACnet Configurator (Software para configuración de redes BACnet)
+WAGO Ethernet Switch Configurator (Software para configuración de switches Ethernet)
+WAGO KNX Configurator (Software para configuración de sistemas KNX)
+WAGO ProServe (Software para la configuración y diagnóstico de sistemas de automatización)
