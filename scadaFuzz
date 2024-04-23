@@ -37,4 +37,6 @@
 /api/upload
 /uploadStatus
 /WiringPi
+/upload
+/upload-program
 
