@@ -21,9 +21,20 @@
 /ui/login.html
 /ui/login/passowrd/change
 :8080/ui/login
+/programs
+/modbus
+/monitoring
+/hardware
+/dashboard
+/compile-program?file=blank_program.st#!
 /ui/login/login?authRequestID=11111111111111111111
 /ui/agree-to-license
 /ui/data-point-details/
 /ui/administration/users/
-
+/pvbrowser
+/pvbrowser.de
+/main.html
+/api/upload
+/uploadStatus
+/WiringPi
 
